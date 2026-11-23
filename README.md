@@ -14,4 +14,4 @@ Exploratory and sales analysis of an online bookstore database using SQL. The pr
 - Aggregations (`SUM`, `COUNT`, `AVG`, `GROUP BY`, `HAVING`)
 - Filtering, sorting, and date-based sales analysis
 - Subqueries / CTEs and ranking functions
--# OnlineBookStore-Sales-SQL-Analysis
+
